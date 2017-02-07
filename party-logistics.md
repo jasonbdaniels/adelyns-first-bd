@@ -1,4 +1,4 @@
-# Feature Name
+# Party Logistics
 
 - **Date**: Feb. 5, 2017
 - **Status**: *Ready*
@@ -23,7 +23,7 @@ Provide a high overview of how the party will be planned.
 
 ## Requirements
 
-1. Create a buffet line that starts in the kitchen, starting form the Kitchaide to the Coffe maker.
+1. Create a buffet line that starts in the kitchen, starting form the Kitchenaide to the Coffee maker.
 2. Cake smash chair in corner of the wine record holders.
 3. Cake table in front of window near cake smash chair. Used for all the desserts.
 4. Setup trash area where trash can is. Make easily accessible and out of reach from children.
@@ -40,4 +40,3 @@ Provide a high overview of how the party will be planned.
 
 1. *Feb. 5, 2017*, Initial document.
 2. *Feb. 5, 2017*, 18 extra chairs.
-

@@ -1,11 +1,11 @@
-# Feature Name
+# Food
 
 - **Date**: Feb. 5, 2017
 - **Status**: *WIP*
 
 ## Description
 
-What to eat for Adelyns first birthday party.
+What to eat for Adelyn's first birthday party.
 
 ## Purpose
 
@@ -28,7 +28,7 @@ Provide a any easy to make and roughly cheap meal to feed guests.
 
 ### Main
 
-1. Pulled pork sandwhiches
+1. Pulled pork sandwiches
 2. BBQ sauce
 3. Buns
 
@@ -56,4 +56,3 @@ Provide a any easy to make and roughly cheap meal to feed guests.
 *Version 1.0*
 
 1. *Feb. 5, 2017*, Initial document.
-
