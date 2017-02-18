@@ -1,7 +1,7 @@
 # Food-ware
 
 - **Date**: Feb. 5, 2017
-- **Status**: *Ready*
+- **Status**: *Complete*
 
 ## Description
 
