@@ -22,10 +22,10 @@ Provide throw away Tupperware for eating.
 
 ## Requirements
 
-1. Dinner plates
-2. dessert plates
-3. Forks and spoons
-4. Cups (solo red)
+1. ~~Dinner plates~~
+2. ~~dessert plates~~
+3. ~~Forks and spoons~~
+4. ~~Cups (solo red)~~
 
 ## Unknowns
 
