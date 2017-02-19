@@ -19,7 +19,6 @@ Provide a high overview of how the party will be planned.
   - Happy birthday sign for above kitchen door way. White, pink and red background with gold letters.
 - [Food](./food.md) (*WIP*)
   - How many servings?
-  - Which items to make and which items to buy?
 - [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
@@ -34,7 +33,7 @@ Provide a high overview of how the party will be planned.
 4. Cake table in front of window near cake smash chair. Used for all the desserts.
 5. Setup trash area where trash can is. Make easily accessible and out of reach from children.
 6. Borrow 18 extra chairs from church (Use these to replace dinning chairs to create more space).
-7. Party starts at **3:30 PM Feb. 26, 2017** and ends at **6:30 PM**.
+7. Party starts at **3:30 PM, Sunday Feb. 26, 2017** and ends at **6:30 PM**.
 
 ## Unknowns
 
