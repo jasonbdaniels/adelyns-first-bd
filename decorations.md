@@ -21,7 +21,7 @@ None.
 2. ~~Streamers to decorate behind cake smash chair. Red and pink.~~
 3. Balloons. Two sets of five balloons. Placed on left side of TV banister and right side of TV banister. Red and pink.
 4. Flowers for dinning, buffets table, and side tables. Carnations and babies breath.
-5. Happy birthday sign for above kitchen door way. White, pink and red background with gold letters.
+5. ~~Happy birthday sign for above kitchen door way. White, pink and red background with gold letters.~~
 6. ~~Table clothe for the dessert table. (One, Pink or white)~~
 
 ## Unknowns

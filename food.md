@@ -66,4 +66,3 @@ Main course will be prepared by Emma.
 
 1. *Feb. 5, 2017*, Initial document.
 2. *Feb. 19, 2017*, Item to buy are known.
- 
