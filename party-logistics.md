@@ -15,10 +15,12 @@ Provide a high overview of how the party will be planned.
 
 - [Decorations](./decorations.md) (*Ready*)
   - Balloons. Two sets of five balloons. Placed on left side of TV banister and right side of TV banister. Red and pink.
-  - Flowers for dinning, buffets table, and side tables. Carnations and babies breath.
-  - Happy birthday sign for above kitchen door way. White, pink and red background with gold letters.
-- [Food](./food.md) (*WIP*)
-  - How many servings?
+- [Food](./food.md) (*Ready*)
+  - Buy all food Emma is preparing. (Need cake from costco)
+  - Make Pulled pork sandwiches
+  - Make Fruit-salad
+  - Make Smash cake
+  - Make Cookies
 - [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
