@@ -13,13 +13,11 @@ Provide a high overview of how the party will be planned.
 
 ## Related
 
-- [Decorations](./decorations.md) (*Complete*)
 - [Food](./food.md) (*Ready*)
   - Buy all food Emma is preparing. (Need cake from costco)
   - Make Pulled pork sandwiches
   - Make Fruit-salad
   - Ice Smash cake
-- [Food eating ware](./food-ware.md) (*Complete*)
 - [Cleaning](./cleaning.md) (*Ready*)
 	1. Dust all apliances. **Jason**
 	2. Sweep downstairs steps. **Jason**
@@ -29,6 +27,8 @@ Provide a high overview of how the party will be planned.
 	5. Sweep upstairs floor. **Jason**
 	6. Clean all toilets. **Jason**
 	7. Clean air filter then run on main floor and downstairs. **Jason**
+- [Decorations](./decorations.md) (*Complete*)
+- [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
 
