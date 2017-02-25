@@ -1,7 +1,7 @@
 # Feature Name
 
 - **Date**: Feb. 25, 2017
-- **Status**: *Ready*
+- **Status**: *Complete*
 
 ## Description
 
@@ -26,9 +26,9 @@ Make house clean and comfortbale for party guests.
 2. ~~Sweep upstairs steps.~~ **Emma**
 3. ~~Sweep main floor.~~ **Emma**
 4. ~~Swiffer wet main floor.~~ **Emma**
-5. Sweep upstairs floor. **Jason**
+5. ~~Sweep upstairs floor.~~ **Jason**
 6. ~~Clean all toilets.~~ **Jason**
-7. ~~Clean air filter~~ then run on ~~main floor~~ and downstairs. **Jason**
+7. ~~Clean air filter then run on main floor and downstairs~~. **Jason**
 
 ## Unknowns
 

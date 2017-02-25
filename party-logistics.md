@@ -14,16 +14,11 @@ Provide a high overview of how the party will be planned.
 ## Related
 
 - [Food](./food.md) (*Ready*)
-  - Buy all food Emma is preparing. (Need cake from costco)
   - Make Pulled pork sandwiches
   - Make Fruit-salad
   - Ice Smash cake
-- [Cleaning](./cleaning.md) (*Ready*)
-	5. Sweep upstairs floor. **Jason**
-	7. ~~Clean air filter~~ then run on ~~main floor~~ and downstairs.
-- [Decorations](./decorations.md) (*Ready*)
-	7. Monthly Clock pictures
-	8. Slide show for upstairs, possible downsairs
+- [Decorations](./decorations.md) (*Complete*)
+- [Cleaning](./cleaning.md) (*Complete*)
 - [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
