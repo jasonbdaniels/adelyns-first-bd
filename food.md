@@ -21,7 +21,7 @@ Provide a any easy to make and roughly cheap meal to feed 40 guests.
 
 ## Requirements
 
-1. Buy all food Emma is preparing.
+1. ~~Buy all food Emma is preparing~~.
 2. ~~Tell everyone what they're making.~~
 	- Paige
 	- Rita
@@ -52,7 +52,7 @@ Main course will be prepared by Emma.
 1. Cake (Costco)
 2. Smash cake (Emma)
 3. Cup cakes (Paige)
-4. Cookies (Emma)
+4. ~~Cookies~~ (Emma)
 5. ~~Ice cream chocolate and vanilla~~ (Emma)
 
 ## Unknowns
@@ -67,4 +67,3 @@ Main course will be prepared by Emma.
 1. *Feb. 5, 2017*, Initial document.
 2. *Feb. 19, 2017*, Item to buy are known.
 3. *Feb. 23, 2017*, Approximately 40 servings.
- 

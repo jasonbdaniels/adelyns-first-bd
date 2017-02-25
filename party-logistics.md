@@ -13,14 +13,12 @@ Provide a high overview of how the party will be planned.
 
 ## Related
 
-- [Decorations](./decorations.md) (*Ready*)
-  - Balloons. Two sets of five balloons. Placed on left side of TV banister and right side of TV banister. Red and pink.
+- [Decorations](./decorations.md) (*Complete*)
 - [Food](./food.md) (*Ready*)
   - Buy all food Emma is preparing. (Need cake from costco)
   - Make Pulled pork sandwiches
   - Make Fruit-salad
-  - Make Smash cake
-  - Make Cookies
+  - Ice Smash cake
 - [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
