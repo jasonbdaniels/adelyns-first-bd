@@ -21,14 +21,14 @@ Make house clean and comfortbale for party guests.
 
 ## Requirements
 
-1. Dust all apliances. **Jason**
-2. Sweep downstairs steps. **Jason**
-2. Sweep upstairs steps. **Emma**
-3. Sweep main floor. **Emma**
-4. Swiffer wet main floor. **Emma**
+1. ~~Dust all apliances.~~ **Jason**
+2. ~~Sweep downstairs steps.~~ **Jason**
+2. ~~Sweep upstairs steps.~~ **Emma**
+3. ~~Sweep main floor.~~ **Emma**
+4. ~~Swiffer wet main floor.~~ **Emma**
 5. Sweep upstairs floor. **Jason**
-6. Clean all toilets. **Jason**
-7. Clean air filter then run on main floor and downstairs. **Jason**
+6. ~~Clean all toilets.~~ **Jason**
+7. ~~Clean air filter~~ then run on ~~main floor~~ and downstairs. **Jason**
 
 ## Unknowns
 

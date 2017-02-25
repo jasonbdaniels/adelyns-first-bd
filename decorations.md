@@ -1,7 +1,7 @@
 # Decorations
 
 - **Date**: Feb. 5, 2017
-- **Status**: *Complete*
+- **Status**: *Ready*
 
 ## Description
 
@@ -23,6 +23,8 @@ None.
 4. ~~Flowers for dinning, buffets table, and side tables. Carnations and babies breath.~~
 5. ~~Happy birthday sign for above kitchen door way. White, pink and red background with gold letters.~~
 6. ~~Table clothe for the dessert table. (One, Pink or white)~~
+7. Monthly Clock pictures
+8. Slide show for upstairs, possible downsairs
 
 ## Unknowns
 

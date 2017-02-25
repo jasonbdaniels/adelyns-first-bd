@@ -19,15 +19,11 @@ Provide a high overview of how the party will be planned.
   - Make Fruit-salad
   - Ice Smash cake
 - [Cleaning](./cleaning.md) (*Ready*)
-	1. Dust all apliances. **Jason**
-	2. Sweep downstairs steps. **Jason**
-	2. Sweep upstairs steps. **Emma**
-	3. Sweep main floor. **Emma**
-	4. Swiffer wet main floor. **Emma**
 	5. Sweep upstairs floor. **Jason**
-	6. Clean all toilets. **Jason**
-	7. Clean air filter then run on main floor and downstairs. **Jason**
-- [Decorations](./decorations.md) (*Complete*)
+	7. ~~Clean air filter~~ then run on ~~main floor~~ and downstairs.
+- [Decorations](./decorations.md) (*Ready*)
+	7. Monthly Clock pictures
+	8. Slide show for upstairs, possible downsairs
 - [Food eating ware](./food-ware.md) (*Complete*)
 
 ## User Interface
